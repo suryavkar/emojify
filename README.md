@@ -14,3 +14,5 @@ A Python project which detects facial expressions from live webcam video input, 
 - OpenCV
 - Tkinter
 - Pillow
+
+Install dependencies using `pip install -r requirements.txt`
